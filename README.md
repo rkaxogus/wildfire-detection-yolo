@@ -77,4 +77,4 @@ names: ['Heavy smoke', 'Large fire', 'Low smoke', 'Medium fire', 'Small fire']
 5. 리뷰 승인 후 main에 merge
 
 ## Acknowledgement
-본 프로젝트는 YOLOv7 기반 오픈소스를 참고하여 확장 및 커스터마이징했습니다.
+본 프로젝트는 YOLOv7 기반 오픈소스를 참고하여 확장 및 커스터마이징했습니다..
