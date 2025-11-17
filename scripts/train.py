@@ -1,4 +1,4 @@
-#욜로 파인튜닝 학습모델 코드
+#욜로 파인튜닝 학습모델 코드, yolo8n 모델에 roboflow 이미지 2만장 파인튜닝"
 from ultralytics import YOLO
 import shutil
 import os
