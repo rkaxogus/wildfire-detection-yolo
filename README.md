@@ -61,3 +61,20 @@ test: ./test/images
 
 nc: 5
 names: ['Heavy smoke', 'Large fire', 'Low smoke', 'Medium fire', 'Small fire']
+
+
+## Collaboration Workflow
+본 프로젝트는 GitHub Flow를 기반으로 협업했습니다.
+
+1. main 브랜치 유지
+2. 팀원별 개인 브랜치 생성  
+   - gyuri  
+   - haeyun  
+   - seoyeon  
+   - taehyun
+3. 개인 브랜치에서 기능 단위로 작업 후 commit/push
+4. Pull Request를 생성하여 코드 리뷰 진행
+5. 리뷰 승인 후 main에 merge
+
+## Acknowledgement
+본 프로젝트는 YOLOv7 기반 오픈소스를 참고하여 확장 및 커스터마이징했습니다..
